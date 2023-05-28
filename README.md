@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikosetiawanp](https://github.com/nikosetiawanp)
+- 👨‍💻 All of my projects are available [here]([https://github.com/nikosetiawanp](https://github.com/nikosetiawanp?tab=repositories))
 
 - 📫 How to reach me **nikosetiawanp@gmail.com**
 
