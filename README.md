@@ -10,7 +10,7 @@
 - 📫 How to reach me **nikosetiawanp@gmail.com**
 
 <h3 align="left">My Skills and Languages:</h3>
-<img src="https://icons8.com/icon/tGvHBPJaKqEd/javascript">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <h3 align="left">Connect with me:</h3>
 
