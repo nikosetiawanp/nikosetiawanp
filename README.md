@@ -9,7 +9,12 @@
 
 - 📫 How to reach me **nikosetiawanp@gmail.com**
 
+<h3 align="left">My Skills and Languages:</h3>
+<img src="https://icons8.com/icon/tGvHBPJaKqEd/javascript">
+
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 <a href="https://twitter.com/nikosetiawanp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikosetiawanp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikosetiawanp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikosetiawanp" height="30" width="40" /></a>
