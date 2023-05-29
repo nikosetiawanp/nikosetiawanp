@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Niko Setiawan Pakunegoro</h1>
-<h3 align="center">A passionate fullstack developer, with focus on frontend and UI/UX design from Semarang, Indonesia</h3>
+<h1>Hi 👋, I'm Niko Setiawan Pakunegoro</h1>
+<h3>A passionate fullstack developer, with focus on frontend and UI/UX design from Semarang, Indonesia</h3>
 
 - 🔭 I’m currently a student on **RevoU**
 
