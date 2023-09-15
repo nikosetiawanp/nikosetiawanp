@@ -1,7 +1,6 @@
 <h1>Hi 👋, I'm Niko Setiawan Pakunegoro</h1>
 <h3>A passionate fullstack developer, with focus on frontend and UI/UX design from Semarang, Indonesia</h3>
 
-- 🔭 I’m currently a student on **RevoU**
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 
