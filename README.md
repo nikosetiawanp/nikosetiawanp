@@ -2,7 +2,7 @@
 
 ## About me:
 
-#### I'm passionate fullstack developer, with focus on frontend and UI/UX design, and I love solving people's problems. Contact me if you have crazy ideas and let's turn it into reality!
+I'm passionate fullstack developer, with focus on frontend and UI/UX design, and I love solving people's problems. Contact me if you have crazy ideas and let's turn it into reality!
 
 ## ⚙️Skills
 
