@@ -15,20 +15,23 @@ I'm passionate fullstack developer, with focus on frontend and UI/UX design, and
 | ----------------------------------------------------------------------------------------------------------------- | ------------ |
 | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)     | Intermediate |
 | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)              | Intermediate |
-| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | Beginner     |
+| ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | Familiar     |
+| ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) | Familiar     |
+
+
+
+| Backend Framework & Tools                                                                                     | Skill Level  |
+| ------------------------------------------------------------------------------------------------------------- | ------------ |
+| ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  | Intermediate |
+| ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)                           | Intermediate |
+| ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) | Intermediate |
 
 | Markdown & Styling                                                                                                           | Skill Level  |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------ |
 | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)                           | Advanced     |
 | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) | Intermediate |
 | ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)                              | Intermediate |
-| ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)         | Intermediate |
-
-| Backend Framework & Tools                                                                                     | Skill Level  |
-| ------------------------------------------------------------------------------------------------------------- | ------------ |
-| ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  | Intermediate |
-| ![Express JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)                             | Intermediate |
-| ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) | Intermediate |
+| ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)       | Intermediate |
 
 | Tools                                                                                                                   | Description  |
 | ----------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -36,8 +39,8 @@ I'm passionate fullstack developer, with focus on frontend and UI/UX design, and
 | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)       | Intermediate |
 | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)             | Intermediate |
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)               | Intermediate |
-| ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | Beginner     |
-| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)            | Beginner     |
+| ![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) | Familiar     |
+| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)            | Familiar     |
 
 | Database                                                                                                             | Skill Level  |
 | -------------------------------------------------------------------------------------------------------------------- | ------------ |
